@@ -1,0 +1,1 @@
+select name, duration, lyrics, title, img from song inner join album on song_album_id = album.id;

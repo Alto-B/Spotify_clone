@@ -1,0 +1,19 @@
+.search{
+    margin: 50px 100px 50px 100px;
+}
+
+.btn-custom {
+    background-color: purple;
+    color: white;
+}
+
+.btn-xxl {
+    padding: 50px 20px;
+    font-size: 1.5rem;
+}
+
+.search-bar{
+    display: flex;
+    white-space: pre-line;
+    margin-bottom: 20px;
+}

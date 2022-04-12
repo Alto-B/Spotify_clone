@@ -1,0 +1,332 @@
+{
+    "albums": [
+        {
+            "title": "Justice",
+            "date": "2021-03-19",
+            "total_tracks": 16,
+            "artist": [
+                {
+                    "name": "Justin Bieber"
+                }
+            ]
+        },
+        {
+            "title": "JORDI (Deluxe)",
+            "date": "2021-06-11",
+            "total_tracks": 14,
+            "artist": [
+                {
+                    "name": "Maroon 5"
+                }
+            ]
+        },
+        {
+            "title": "Unorthodox Jukebox",
+            "date": "2012-12-07",
+            "total_tracks": 10,
+            "artist": [
+                {
+                    "name": "Bruno Mars"
+                }
+            ]
+        },
+        {
+            "title": "STAY (with Justin Bieber)",
+            "date": "2021-07-09",
+            "total_tracks": 1,
+            "artist": [
+                {
+                    "name": "The Kid LAROI"
+                },
+                {
+                    "name": "Justin Bieber"
+                }
+            ]
+        },
+        {
+            "title": "Enemy (with JID) [from the series Arcane League of Legends]",
+            "date": "2021-10-28",
+            "total_tracks": 1,
+            "artist": [
+                {
+                    "name": "Imagine Dragons"
+                },
+                {
+                    "name": "JID"
+                },
+                {
+                    "name": "Arcane"
+                }
+            ]
+        },
+        {
+            "title": "INDUSTRY BABY (feat. Jack Harlow)",
+            "date": "2021-07-23",
+            "total_tracks": 1,
+            "artist": [
+                {
+                    "name": "Lil Nas X"
+                },
+                {
+                    "name": "Jack Harlow"
+                }
+            ]
+        },
+        {
+            "title": "Loud (Japan Version)",
+            "date": "2010-01-01",
+            "total_tracks": 13,
+            "artist": [
+                {
+                    "name": "Rihanna"
+                }
+            ]
+        }
+    ],
+    "artist": [
+        {
+            "name": "Justin Bieber",
+            "followers": 58720054,
+            "genres": [
+                "canadian pop",
+                "pop"
+            ]
+        },
+        {
+            "name": "Maroon 5",
+            "followers": 35804046,
+            "genres": [
+                "pop",
+                "pop rock"
+            ]
+        },
+        {
+            "name": "Bruno Mars",
+            "followers": 39324368,
+            "genres": [
+                "dance pop",
+                "pop"
+            ]
+        },
+        {
+            "name": "The Kid LAROI",
+            "followers": 3522273,
+            "genres": [
+                "australian hip hop"
+            ]
+        },
+        {
+            "name": "Imagine Dragons",
+            "followers": 39182786,
+            "genres": [
+                "modern rock",
+                "rock"
+            ]
+        },
+        {
+            "name": "JID",
+            "followers": 839931,
+            "genres": [
+                "hip hop",
+                "rap"
+            ]
+        },
+        {
+            "name": "Arcane",
+            "followers": 117813,
+            "genres": []
+        },
+        {
+            "name": "Lil Nas X",
+            "followers": 10217255,
+            "genres": [
+                "lgbtq+ hip hop",
+                "pop"
+            ]
+        },
+        {
+            "name": "Jack Harlow",
+            "followers": 1654183,
+            "genres": [
+                "deep underground hip hop",
+                "kentucky hip hop",
+                "rap"
+            ]
+        },
+        {
+            "name": "Rihanna",
+            "followers": 47949214,
+            "genres": [
+                "barbadian pop",
+                "dance pop",
+                "pop",
+                "pop rap",
+                "urban contemporary"
+            ]
+        }
+    ],
+    "songs": [
+        {
+            "name": "2 Much",
+            "duration": 152796,
+            "lyrics": "2 Much Lyrics[Intro: Martin Luther King Jr.]\nInjustice anywhere is a threat to justice everywhere\n\n[Verse 1]\nMaybe I stare too much\nMaybe not long enough\nFunny how I forget to blink\nBut when you let down your hair\nDancin' like no one's there\nI know I'm where I'm s'posed to be\n\n[Pre-Chorus]\nI say \"I love you\" under my breath\nMore times than you can digest\nMusic every time I hear your name, oh\nYour head's layin' right on my chest\nSun's up and I still ain't got no rest\n\n[Chorus]\nDon't wanna close my eyes, I'm scared I'll miss too much\nDon't wanna fall asleep, I'd rather fall in love\nWhen I can't feel you, I feel out of touch\nTwo seconds without you's like two months\nDon't wanna close my eyes, I'm scared I'll miss too much\nDon't wanna fall asleep, I'd rather fall in love\n'Cause eternity with you ain't long enough\nTwo seconds without you's like two months\nAnd that's too much\n[Verse 2]\nLove the way you love your mom\nTake on all your friends' problems\nStill somehow stop the world for us, oh\nI still relive that second\nI met my biggest blessing\nPrayed for you, look what God has done\n\n[Pre-Chorus]\nI say \"I love you\" under my breath\nMore times than you can digest\nMusic every time I hear your name, oh\nYour head's layin' right on my chest\nSun's up and I still ain't got no rest\n\n[Chorus]\nDon't wanna close my eyes, I'm scared I'll miss too much\nDon't wanna fall asleep, I'd rather fall in love\nWhen I can't feel you, I feel out of touch\nTwo seconds without you's like two months\nDon't wanna close my eyes, I'm scared I'll miss too much\nDon't wanna fall asleep, I'd rather fall in love\n'Cause eternity with you ain't long enough\nTwo seconds without you's like two months\nAnd that's too much12Embed"
+        },
+        {
+            "name": "Deserve You",
+            "duration": 187238,
+            "lyrics": "Deserve You Lyrics[Verse 1]\nWhen I'm in my thoughts sometimes\nIt's hard to believe I'm the person you think I am\nThe person that you tell me you love\nI'm on my ten thousandth life\nNine thousand nine hundred nine and it slipped my hands\nBut this the one I'm not givin' up\n\n[Pre-Chorus]\nNight after night you fall asleep on me\nI'm prayin' that I don't go back to who I was\n\n[Chorus]\nI feel like I don't deserve you tonight (Tonight)\nIt's in the way that you hold me\nI don't deserve you tonight (Tonight)\nIt's in the things that you show me (Show me)\nI need you, don't let me go\nNeed you, don't let me go\nI feel like I don't de-, I don't de-, I don't deserve you tonight\n[Verse 2]\nI can tend to hold things back\nI need you more than I let you believe I do\n'Cause you could think it might be too much, oh yeah\nI don't wanna be my past\nOh, when we kiss, I'm alive and I feel brand new\nThere's nothing that I want more than us (Na-na-na-na-na)\n\n[Pre-Chorus]\nNight after night, you fall asleep on me (Sleep on me)\nI'm prayin' that I don't go back to who I was (Oh no, no no, no)\n\n[Chorus]\nI feel like I don't deserve you tonight (Deserve you)\nIt's in the way that you hold me\nI don't deserve you tonight (Deserve you)\nIt's in the things that you show me (Oh)\nI need you, don't let me go (No)\nNeed you, don't let me go\nI feel like I don't de-, I don't de-, I don't deserve you tonight\n\n[Bridge]\nSomewhere in the sky (Yeah)\nThe way your body fits on mine\nAnd when you give in to me\nI'm so high, but I'm fallin' (Na-na-na), uh\nAnd now my eyes are locked on you (Yeah)\nAs you dance around the room (Yeah)\nAnd finally, I'm right where I belong, oh-oh, ohh\n[Chorus]\nI feel like I don't deserve you tonight (I don't deserve you)\nIt's in the way that you hold me\nI don't deserve you tonight (I don't deserve you)\nIt's in the things that you show me (I can't live without you)\nI need you, don't let me go (Hey)\nNeed you, don't let me go\nI feel like I don't de- (I don't), I don't de- (I don't)\nI don't deserve you tonight (You)\n\n[Outro]\n(I don't deserve you)\nNo, I don't, no\n(I don't deserve you)\nGotta need you\nI can't breathe without you4Embed"
+        },
+        {
+            "name": "As I Am (feat. Khalid)",
+            "duration": 174406,
+            "lyrics": "This Is Justin Bieber Lyrics1. Justin Bieber- 2 Much\n2. Justin Bieber- Deserve You\n3. Justin Bieber- As I Am (feat. Khalid)\n4. Justin Bieber- Off My Face\n5. Justin Bieber- Holy (feat. Chance the Rapper)\n6. Justin Bieber- Unstable (feat. The Kid LAROI)\n7. Justin Bieber- Die For You (feat. Dominic Fike)\n8. Justin Bieber- Hold On\n9. Justin Bieber- Somebody\n10. Justin Bieber- Ghost\n11. Justin Bieber- Peaches (feat. Daniel Ca\u0435sar & Giveon)\n12. Justin Bieber- Lov\u0435 You Different (feat. BEAM)\n13. Justin Bieber- Loved By You (feat. Burna Boy)\n14. Justin Bieber- There She Go (feat. Lil Uzi Vert)\n15. Justin Bieber- I Can't Be Myself (feat. Jaden)\n16. Justin Bieber- Lifetime\n17. Justin Bieber- Wish You Would (feat. Quavo)\n18. Justin Bieber- Know No Better (feat. DaBaby)\n19. Justin Bieber- Name (feat. Tori Kelly)\n20. Justin Bieber- Anyone\n21. Justin Bieber & benny blanco- Lonely\n22. Justin Bieber- Sorry\n23. DJ Snake- Let Me Love You (feat. Justin Bieber)\n24. Justin Bieber- Yummy\n25. Justin Bieber- Intentions (feat. Quavo)\n26. Justin Bieber- What Do You Mean?\n27. Justin Bieber- Love Yourself\n28. Major Lazer- Cold Water (feat. Justin Bieber & M\u00d8)\n29. Justin Bieber- Baby (feat. Ludacris)\n30. DJ Khaled- I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)\n31. Justin Bieber- As Long As You Love Me (feat. Big Sean)\n32. Luis Fonsi & Daddy Yankee- Despacito (feat. Justin Bieber) [Remix]\n33. Justin Bieber- Boyfriend\n34. David Guetaa- 2U (feat. Justin Bieber)\n35. Justin Bieber- Beauty And A Beat (feat. Nicki Minaj)\n36. Jack \u00dc, Skrillex, Diplo & Justin Bieber- Where Are \u00dc Now\n37. Justin Bieber- Never Say Never (feat. Jaden)\n38. Justin Bieber- All Around Me\n39. Justin Bieber & BloodPop\u00ae- Friends\n40. Justin Bieber- Company\n41. Justin Bieber- Somebody To Love\n42. Ed Sheeran & Justin Bieber- I Don't Care\n43. Justin Bieber- One Time\n44. Justin Bieber- Come Around Me\n45. Justin Bieber- Forever (feat. Post Malone & Clever)\n46. Justin Bieber- Confident (feat. Chance the Rapper)\n47. Sean Kingston & Justin Bieber- Eenie Meenie\n48. DJ Khaled, Justin Bieber & Quavo- No Brainer (feat. Chance the Rapper)\n49. Justin Bieber- All That Matters\n50. Chris Brown & Justin Bieber- Next To You\n51. Justin Bieber- One Less Lonely Girl\n52. will.i.am- #thatPOWER (feat. Justin Bieber)\n53. Dan + Shay & Justin Bieber- 10,000 Hours\n54. Justin Bieber- Purpose\n55. Justin Bieber- Habitual\n56. Justin Bieber- All Around The World (feat. Ludacris)\n57. Maejor- Lolly (feat. Juicy J & Justin Bieber)\n58. Justin Bieber- Changes\n59. Justin Bieber- I'll Show You\n60. Justin Bieber- U Smile\n61. Justin Bieber- Second Emotion (feat. Travis Scott)\n62. Justin Bieber & Summer Walker- Yummy (Summer Walker Remix)\n63. Justin Bieber- That's What Love Is\n64. Justin Bieber- Available\n65. Justin Bieber- Heartbreaker\n66. Justin Bieber- Be Alright\n67. Justin Bieber- Get Me (feat. Kehlani)Embed"
+        },
+        {
+            "name": "Off My Face",
+            "duration": 156467,
+            "lyrics": "Off My Face Lyrics[Verse 1]\nOne touch and you got me stoned\nHigher than I've ever known\nYou call the shots and I follow\nSunrise but the night's still young\nNo words, but we speak in tongues\nIf you let me, I might say too much\n\n[Pre-Chorus]\nYour touch blurred my vision\nIt's your world, and I'm just in it\nEven sober I'm not thinkin' straight\n\n[Chorus]\n'Cause I'm off my face, in love with you\nI'm out my head, so into you\nAnd I don't know how you do it\nBut I'm forever ruined by you, ooh-ooh-ooh\n\n[Verse 2]\nCan't sleep 'cause I'm way too buzzed\nToo late, now you're in my blood\nI don't hate the way you keep me up\n[Pre-Chorus]\nYour touch blurred my vision\nIt's your world, and I'm just in it\nEven sober I'm not thinkin' straight\n\n[Chorus]\n'Cause I'm off my face, in love with you\nI'm out my head, so into you\nAnd I don't know how you do it\nBut I'm forever ruined by you, ooh-ooh-ooh\n\n[Bridge]\nOoh, ooh-ooh\nOoh-ooh-ooh-ooh-ooh-ooh\nOoh-ooh-ooh-ooh\nOoh, ooh-ooh\nOoh-ooh-ooh-ooh-ooh-ooh\nOoh-ooh-ooh-ooh\n\n[Chorus]\n'Cause I'm off my face, in love with you\nI'm out my head, so into you\nAnd I don't know how you do it\nBut I'm forever ruined by you, ooh-ooh-ooh\nBy you, ooh-ooh-ooh6Embed"
+        },
+        {
+            "name": "Holy (feat. Chance The Rapper)",
+            "duration": 212093,
+            "lyrics": "New Music Friday 09/18/20 LyricsHoly (feat. Chance The Rapper) - Justin Bieber\nDiamonds - Sam Smith\nMe Gusta (with Cardi B & Myke Towers) - Anitta\nMood Swings (feat. Lil Tjay & Summer Walker) - Remix - Pop Smoke\nWelcome Back (feat. Alessia Cara) - Ali Gatie\nMe x 7 (feat. Tierra Whack) - Alicia Keys\nGates to the Sun (POLLEN Singles) - SahBabii\nSaid Sum (feat. City Girls & DaBaby) - Remix - Moneybagg Yo\nDolly (with Lil Uzi Vert) - Lil Tecca\nNaked - Ava Max\nAgreeable - Cautious Clay\nhooligan - Baby Keem\nDead Man Walking - Brent Faiyaz\nMoney Mouf - Tyga\nOne Too Many - Keith Urban\ncowboy in LA - LANY\nBluebird - Gus Dapperton\nNOW - Olivia O'Brien\nHot Stuff - Kygo\n12 Problems - Rapsody\nLik\u0435 That (feat. Jeremih & Ty Dolla $ign) - Shy Glizzy\nOwn It - Rico Nasty\nfeel away (f\u0435at. James Blake & Mount Kimbie) - slowthai\nWaves - Fiji Blue\nIs It Just Me? - Sasha Sloan\ngod save me, but don't drown me out - YUNGBLUD\nChopBloc Pt. 3 (feat. NLE Choppa) - BlocBoy JB\nDamn - Baby Rose\nReady For You (feat. Celeste) - Black Coffee\nBlueberry Eyes (feat. SUGA of BTS) - MAX\nthe author - Luz\nWithout You - Luke Combs\nLong Violent History - Tyler Childers\nNo Stress - WizKid\n[WhoWho - WizTheMc] \ud83d\udc1a\nMrs. Whoever - Saba\nVictoria - Lunay\nYUUUU - Busta Rhymes\nGas Money - Yung Gravy\nSuper Bad Mantra - JAWNY\nFreefall (feat. Oliver Tree) - Whethan\nWhat Love Is - Tom Gregory\nFalling - Phil Good\nPassport - Masego\nNarco - Lil Loaded\nSinners Prayer - Toosii\ncat out the bag - contradash\nTalk Shit - Savannah Sgro\nBack To My Bed - Elderbrook\nToo Many Nights - 220 KID\nHonest - rei brown\nmiss andry - flowerkid\nSomebody I'm Proud Of - Sarah Barrios\nHomesick - Joseph Black\n[Oakland Nights - Kamaiyah] \ud83d\udc1a\nAll White - Young Nudy\nPerfecta - Luis Fonsi\nAmigo - Lous and The Yakuza\nSplinter (with salem ilese) - MYRNE\nBeautiful Superstar - A. G. Cook\nFree - SAULT\nKeep Yourself Alive - Yellow Days\nBroken Dreams, Inc. - Rise Against\nTake Care In Your Dreaming (feat. Denzel Curry, Tricky & Sampa The Great) - The Avalanches\nLost It - Cochise\n[STCU (with Juicy J) - THEY.]()\nBack in Time (feat. Public Library Commute) - Healy\ngood things take time - Christian French\nCrocodile Tears (feat. Jens Hult) - BUNT.\nIt's Ok If You Forget Me - Astrid S\nCarry Your Heart - Evie Irie\nThe Word - Alec Wigdahl\nSedona - Sir Chloe\n[if you got a problem - Joy Oladokun]()\n\nStranger - Jacob Banks\nMAD - 2KBABY\nWait A Minute - Smoove'L\nHMU - Sevyn Streeter\nSharkbait - Teddy Geiger\nYou Are the Traffic - COIN\nWhenever You Call - ARASHI\n[War For Love - Bright Lights] \ud83d\udc1a\nEnchule - Rauw Alejandro\nSwimming (feat. Trippie Redd) - IV\n[Mismatch (The Remix) feat. Young Thug - Bino Rideaux]()\n\nGLIMPSE ft. Freddie Gibbs - JAHMED\nLeft Lonely - Hotboii\nSum Mo (feat. 42 Dugg) - Trapboy Freddy\nGrouptext - Lido\nHigh Tide, Low Tide - Parson James\nSoldiers - Rachel Platten\nPassive Aggressive - Charlotte Cardin\nGETTING GOOD - Liza Owen\n[Alone - Rajiv Dhall]()\nMaterial Boy - Sir Sly\nTime Will Tell - Marlon Craft\nBookBag 2.0 - BigKayBeezy\nR.I.P. - Lil Poppa\n[FNY - Barkley]()\n\nHigh & Dry - G. V. Prakash\nSomeone Else - Emily Vu\nGone Too Soon - Andrew JannakosEmbed"
+        },
+        {
+            "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
+            "duration": 227395,
+            "lyrics": "New Music Friday 3/5/21 LyricsWhat\u2019s Next - Drake\nHold On - Justin Bieber\nLeave The Door Open  - Silk Sonic\nReal As It Gets (feat. EST Gee) - Lil Baby\nSerotonin - girl in red\nSelfish Love (with Selena Gomez) - DJ Snake\nSacrifice - Bebe Rexha\nBeautiful Mistakes (feat. Megan Thee Stallion) - Maroon 5\nslower - Tate McRae\nSpinning (with Charli XCX & The 1975) - No Rome\nWants and Needs (feat. Lil Baby) - Drake\nMachu Picchu - Camilo\nLife's A Mess II (with Clever & Post Malone) - Juice WRLD\nNeed Someone - Zara Larsson\nTill For\u0435ver Falls Apart - Ashe\nMedicin\u0435 - James Arthur\nThugged Out (feat. Kodak Black) - YNW Melly\nReally Like That - G Herbo\nThis Is Heaven - Nick Jonas\nGrowing Up - Thomas Rhett\nWe Don\u2019t Talk Enough (with Alexander 23) - Quinn XCII\nMa' G - J Balvin\nno sense - Baby Keem\nHellcats & Trackhawks - Only The Family\n[TRUTH (feat. Sam Truth and redveil) - AG Club]\ud83d\udc1a\nPay Your Way In Pain - St. Vincent\nDrink A Little Whiskey Down - Luke Bryan\n1-800-miss-ur-guts - TRAMP STAMPS\nSkywalker - Oliver Malcolm\nToast with the Butter - Blu DeTiger\nYou - Charlotte Lawrence\nFreaky As Me (feat. Mulatto) - Jacquees\nDrill Tumbado - Ovi\nAspen - Young Dolph\nF Is For Friends (with Becky G & Tainy) - Trevor Daniel\nFalling Up - Dean Lewis\nStormy Weather - Kings of Leon\nBody & Soul (feat. Biig Piig) - Emotional Oranges\n[Think About It - Verzache]\ud83d\udd52\nThings - Charlie Houston\n[I Like You - Ai Bendr]\ud83d\udd52\ndo it right (feat. Amin\u00e9) - REI AMI\nBe Sweet - Japanese Breakfast\nDamn Shame - Funkmaster Flex\nBuilt for Everything - Rexx Life Raj\n[Big Dawg - Y Chibi]\ud83d\udc1a\nDiplomatico (feat. Guaynaa) - Major Lazer\nProblems - Don Diablo\nCare At All - Bryce Vine\n[4700 - Body Meat]\ud83d\udc1a\n[Rockin and Wavin - daydream Masi]\ud83d\udc1a\nDead Girl! - Au/Ra\nMake My Mind Up - Tom Grennan\nbored&blind - ella jane\nLEAVE ME - Peach Tree Rascals\n[Can't Be - Renni Rucci]\ud83d\udd52\n[Big Check - YBN Almighty Jay]\ud83d\udc1a\nTrappin' Ain't Dead (feat. 42 Dugg) - Taleban Dooda\nLas Nenas (feat. La Duraca) - Natti Natasha\nSafe Passage - Laura Mvula\nDon't Assume What You Don't Know - Grace VanderWaal\nIn His Arms - Jack Ingram\n[Doubt of Revival - Jordana]()\nMiles to Go - Kaskade\n[Take My Hand - LP Giobbi]\ud83d\udc1a\nMusician - Porter Robinson\nPussy - Bad Gyal\n90210 - Angelo Mota\nParking Lot - Genevieve Stokes\nHeartbroke - Clubhouse\nNoya - Ayzha Nyree\n[S.O.D.D. (feat. Tokyo Vanity) - Tokyo Jetz]\ud83d\udc1a\nLast Minute - BlueBucksClan\nSoul Burden (feat. Fredo Bang) - LBS Kee'vin\nRicochet - Ryan Caraveo\n[Nobody Loves Me (feat. ELIO) - inona Oak]()\nHeavy Hearted - Taska Black\nDon\u2019t Call Me - Bailey Bryan\n[Laugh Now - Trapboy Freddy]\ud83d\udd52\n[BOY WITH A BROKEN HEART - Noah Cunane]()\nAmnesia (feat. GASHI) - Loud Luxury\nDon't Deserve This - Nea\nHow it is - Walk Off the Earth\nPalm Reader - DREAMERS\nI Got Love - Mother Mother\nSunroof - Brooke Eden\nLittle Things - Danielle Apicella\nBreak With Me - SHY Martin\n[Dreamgirl - Father Koi]()\n[Chatter (feat. YBN Nahmir) - Unghetto Mathieu]()\nNo Valet - Siena Liggins\nDrama - Erika de Casier\nF.A.B. - Mia Ariannaa\n[My Bruddas - D3szn]()\nUSAY - JAHMED\nDENY - Boslen\n[Radio - Jaz Elise]\ud83d\udd52\nJOSIE - Liza Owen\nJessica - Maja Kristina\n[Talk About It - Jake Isaac]\ud83d\udc1aEmbed"
+        },
+        {
+            "name": "Lost",
+            "duration": 172597,
+            "lyrics": "Lost Lyrics[Verse 1]\nHad no connection, no faith or direction, no\nSearching and searching for someone to save my soul (Ooh)\n\n[Pre-Chorus]\nOoh, I was swept up in a wave, swept up in a wave\nOoh, then I\u205fheard\u205fyou\u205fsay my name\nYeah-yeah,\u205fyeah-yeah\n\n[Chorus]\nLost, I was\u205flost, I was lost 'til you loved me\nNow I'm found, now I'm found, now I'm found\nYeah, you took me to a place, it was safe, it was sound\nLost, I was lost, now I'm found\nLost, I was lost, I was lost 'til you loved me\nNow I'm found, now I'm found, now I'm found\nYeah, you took me to a place, it was safe, it was sound\nLost, I was lost, now I'm found\n\n[Verse 2]\nI was so broken, my heart was an empty space\nLife was a joke 'til the moment I saw your face\nSaw your face, saw your face\n[Pre-Chorus]\nOoh, I was swept up in a wav\u0435, swept up in a wave\nOoh, then I h\u0435ard you say my name\nYeah-yeah, yeah-yeah\n\n[Chorus]\nLost, I was lost, I was lost 'til you loved me\nNow I'm found, now I'm found, now I'm found\nYeah, you took me to a place, it was safe, it was sound\nLost, I was lost, now I'm found\nLost, I was lost, I was lost 'til you loved me\nNow I'm found, now I'm found, now I'm found\nYeah, you took me to a place, it was safe, it was sound\nLost, I was lost, now I'm found\n\n[Bridge]\nOoh-ooh-ooh, again (Again)\nOoh-ooh-ooh, again, yeah (Again)\nOoh-ooh-ooh, again (Again)\nOoh-ooh-ooh, again, yeah (Again)\n\n[Pre-Chorus]\nOoh, I was swept up in a wave, swept up in a wave\nOoh, I was fadin' when you came\nYeah-yeah, yeah-yeah, yeah\n[Chorus]\nLost, I was lost, I was lost 'til you loved me (I was lost, lost)\nNow I'm found, now I'm found, now I'm found (Now I'm found, found, found)\nYeah, you took me to a place, it was safe, it was sound (Yeah, yeah, yeah)\nLost, I was lost, now I'm found (Oh yeah)\nLost, I was lost, I was lost 'til you loved me (I was lost, lost)\nNow I'm found, now I'm found, now I'm found (Now I'm found, found, found)\nYeah, you took me to a place, it was safe, it was sound (Ooh, yeah, yeah)\nLost, I was lost, now I'm found3Embed"
+        },
+        {
+            "name": "Echo (feat. blackbear)",
+            "duration": 178620,
+            "lyrics": "Echo Lyrics[Verse 1: Adam Levine]\nYou lit the neon inside of my chest\nThere was no vacancy\nI felt the flick of the light that she left\nYou left a space in me\n\n[Pre-Chorus: Adam Levine]\nNovocaine\nI thought I couldn't feel no pain\nBut it still feels like, ooh, when I hear your name\nI can't escape, tryin' but I can't escape\n(Let me go)\n\n[Chorus: Adam Levine]\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, be, be (Be, be, be, be)\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, heart used to be, be\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, be, be (Be, be, be, be)\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, heart used to be, be\n[Verse 2: Adam Levine]\nYou flipped the beat 'round inside of my chest\nChangin' the frequency\nYou had me trippin' the night that you left\nLost electricity\n\n[Pre-Chorus: Adam Levine]\nNovocaine\nThought I couldn't feel no pain\nBut it still feels like, ooh, when I hear your name\nI can't escape, tryin' but I can't escape\n(Let me go)\n\n[Chorus: Adam Levine]\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, be, be (Be, be, be, be)\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, heart used to be, be\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, be, be (Be, be, be, be)\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, heart used to be, be\n\n[Verse 3: blackbear]\nYeah, I got this heart-shaped hole inside of me\nI try to fill with anything\nLike taking trips and buying things\nBurn bridges that once guided me\nAnd I hate the way I watched you leave\nMy ego got the best of me\nI gave you insecurities, these tears fall on my Bentley seats\nAnd now all I feel is depressed, all that I taste is regret\nI cannot tell what is real, only the pain that I feel\nYou give me nothing but stress and this echo (Echo, echo, echo)\nYou left in my chest\n[Chorus: Adam Levine & blackbear]\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, be, be (Be, be, be, be)\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, heart used to be, be\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, be, be (Be, be, be, be)\nI got this echo (Echo, echo, echo, echo, echo, echo)\nWhere my heart used to be, heart used to be, beEmbed"
+        },
+        {
+            "name": "Lovesick",
+            "duration": 185068,
+            "lyrics": "Lovesick Lyrics[Chorus]\nLovesick, you know I can't fight it anymore\n'Cause I love it, the way my heart drops to the floor\n\n[Verse 1]\nBaby, baby, where'd you go?\nMy starlight, my firefly\nI've been searchin' high and low\nLike all night, my whole life\n\n[Pre-Chorus]\nFor someone like you to really take my breath away\nAnd I can't be lonely, no, you gon' be the death of me\n\n[Chorus]\n'Cause I'm lovesick, you know I can't fight it anymore\n'Cause I love it, the way my heart drops to the floor\n\n[Post-Chorus]\nYou got me lovesick\nBut I love it\nYeah\n[Verse 2]\nLovesick, I'm falling, I can't be trusted\nIf that's what you want, th\u0435n rush in\nTrust me when I say, I want this, want this\n\n[Chorus]\n'Cause I'm lov\u0435sick, you know I can't fight it anymore\n'Cause I love it, the way my heart drops to the floor\n\n[Post-Chorus]\nYou got me lovesick (Yeah)\nBut I love it\n\n[Pre-Chorus]\nFor someone like you to really take my breath away\nAnd I can't be lonely, no, you gon' be the death of me, oh\n\n[Chorus]\n'Cause I'm lovesick, you know I can't fight it anymore (Anymore)\n'Cause I love it, the way my heart drops to the floor\n\n[Post-Chorus]\nYou got me lovesick (Lovesick)\nYou got me lovesick, lovesick\nYou got me lovesick, lovesick (But I love it)\nYou got me lovesick, lovesick\nYeahEmbed"
+        },
+        {
+            "name": "Remedy (feat. Stevie Nicks)",
+            "duration": 149492,
+            "lyrics": "Maroon 5 - Remedy ft. Stevie Nicks (Tradu\u00e7\u00e3o em Portugu\u00eas) Lyrics[Intro: Adam Levine]\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar\n\n[Verso 1: Adam Levine]\nCulpe sua m\u00e3e e seu pai, viva jovem, morra r\u00e1pido\nEsse \u00e9 o rem\u00e9dio, esse \u00e9 o rem\u00e9dio para tudo\nMuito na minha mente, outro comprimido e eu estarei bem, sim\nEsse \u00e9 o rem\u00e9dio, esse \u00e9 o rem\u00e9dio para tudo\n\n[Gancho: Adam Levine]\n\u00c0s vezes, eu me sinto louco, mas eu n\u00e3o estou\nParece mais que eu estou fora do meu corpo\n\u00c0s vezes, eu fico do meu jeito, mas eu n\u00e3o estou\nEu n\u00e3o realmente me sinto como ningu\u00e9m\n\n[Pr\u00e9-Refr\u00e3o: Adam Levine & Stevie Nicks]\nCaminhando ao sol, rosto beijado pelo sol\nComo velas ao sol, eu estou quebrando\nMe leve agora, eu estou quebrando\nS\u00f3 preciso de algu\u00e9m que me ame, que me ame\n[Refr\u00e3o: Adam Levine & Stevie Nicks, Adam Levine]\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar\n\n[Verso 2: Adam Levine]\nMem\u00f3rias que n\u00e3o consigo reviver, eu fugi de como me sinto\nEsse \u00e9 o rem\u00e9dio, esse \u00e9 o rem\u00e9dio para tudo\nT\u00f4 pouco me fudendo, eu nunca liguei, vivendo como se nunca tivesse vivido\nEsse \u00e9 o rem\u00e9dio, esse \u00e9 o rem\u00e9dio para tudo\n\n[Gancho: Adam Levine]\n\u00c0s vezes, eu me sinto louco, mas eu n\u00e3o estou\nParece mais que eu estou fora do meu corpo\n\u00c0s vezes, eu fico do meu jeito, mas eu n\u00e3o estou\nEu n\u00e3o realmente me sinto como ningu\u00e9m\n\n[Pr\u00e9-Refr\u00e3o: Adam Levine & Stevie Nicks]\nCaminhando ao sol, rosto beijado pelo sol\nComo velas ao sol, eu estou quebrando\nMe leve agora, eu estou quebrando\nS\u00f3 preciso de algu\u00e9m que me ame, que me ame\n\n[Refr\u00e3o: Adam Levine & Stevie Nicks, Adam Levine]\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar (S\u00f3 um pouco de amor)\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separar\nOoh, comece do in\u00edcio\nS\u00f3 um pouco de amor vai nos separarEmbed"
+        },
+        {
+            "name": "Young Girls",
+            "duration": 228720,
+            "lyrics": "Young Girls Lyrics[Verse 1]\nI spend all my money\nBought a big, old fancy car\nFor these bright-eyed honeys\nOh yeah, you know who you are\nKeep me up 'til the sun is high\n'Til the birds start calling my name\nI'm addicted and I don't know why\nGuess I've always been this way\n\n[Pre-Chorus]\nAll these roads steer me wrong\nBut I still drive them all night long\nAll night long\n\n[Chorus]\nAll you young, wild girls\nYou make a mess of me\nYeah, you young, wild girls\nYou'll be the death of me, the death of me\nAll you young, wild girls\nNo matter what you do\nYeah, you young, wild girls\nI'll always come back to you, come back to you\n[Verse 2]\nI get lost under these lights\nI get lost in the words I say\nStart believing my own lies\nLike everything will be okay\nOh, I still dream of a simple life\nBoy meets girl, makes her his wife\nBut love don't exist when you live like this\nThat much, I know, yes, I know\n\n[Pre-Chorus]\nAll these roads steer me wrong\nBut I still drive them all night long\nAll night long\n\n[Chorus]\nAll you young, wild girls\nYou make a mess of me\nYeah, you young, wild girls\nYou'll be the death of me, the death of me\nAll you young, wild girls\nNo matter what you do\nYeah, you young, wild girls\nI'll always come back to you, come back to you\n\n[Bridge]\nYou, you, you, you\nYeah, you, you, you\nYou, you, you, you\n[Chorus]\nAll you young, wild girls\nYou make a mess of me\nYeah, you young, wild girls\nYou'll be the death of me, the death of me\nAll you young, wild girls\nNo matter what you do\nYeah, you young, wild girls\nI'll always come back to you, come back to you36Embed"
+        },
+        {
+            "name": "Locked out of Heaven",
+            "duration": 233478,
+            "lyrics": "Locked Out of Heaven Lyrics[Intro]\n(One, two, one, two, three)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Ooh)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Ooh)\n\n[Verse 1]\nNever had much faith in love or miracles (Ooh)\nNever wanna put my heart on the line (Ooh)\nBut swimming in your water's something spiritual (Ooh)\nI'm born again every time you spend the night (Ooh)\n\n[Pre-Chorus]\n'Cause your sex takes me to paradise\nYeah, your sex takes me to paradise\nAnd it shows\nYeah, yeah, yeah\n\n[Chorus]\n'Cause you make me feel like\nI've been locked out of heaven\nFor too long, for too long\nYeah, you make me feel like\nI've been locked out of heaven\nFor too long, for too long\n[Post-Chorus]\nAw, yeah, yeah, yeah, yeah (Ooh)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Ooh)\n\n[Verse 2]\nYou bring me to my knees, you make me testify (Ooh)\nYou can make a sinner change his ways (Ooh)\nOpen up your gates 'cause I can't wait to see the light (Ooh)\nAnd right there is where I wanna stay (Ooh)\n\n[Pre-Chorus]\n'Cause your sex takes me to paradise\nYeah, your sex takes me to paradise\nAnd it shows\nYeah, yeah, yeah\n\n[Chorus]\n'Cause you make me feel like\nI've been locked out of heaven\nFor too long, for too long\nYeah, you make me feel like\nI've been locked out of heaven\nFor too long, for too long\n\n[Bridge]\nOh, oh, oh, oh, yeah, yeah, yeah\nCan I just stay here?\nSpend the rest of my days here?\nOh, oh, oh, oh, yeah, yeah, yeah\nCan I just stay here?\nSpend the rest of my days here?\n[Chorus]\n'Cause you make me feel like\nI've been locked out of heaven\nFor too long, for too long\nYeah, you make me feel like\nI've been locked out of heaven\nFor too long, for too long\n\n[Outro]\nAw, yeah, yeah, yeah, yeah (Ooh)\nAw, yeah, yeah\nAw, yeah, yeah, yeah, yeah (Ooh)76Embed"
+        },
+        {
+            "name": "Gorilla",
+            "duration": 244493,
+            "lyrics": "Gorilla Lyrics[Verse 1]\nOoh, I got a body full of liquor\nWith a cocaine kicker\nAnd I'm feeling like I'm thirty feet tall\nSo lay it down, lay it down\nYou got your legs up in the sky\nWith the devil in your eyes\nLet me hear you say you want it all\nSay it now, say it now\n\n[Pre-Chorus]\nLook what you're doing, look what you've done\nBut in this jungle, you can't run\n'Cause what I got for you, I promise it's a killa\nYou'll be banging on my chest, bang bang, gorilla\n\n[Chorus]\nOoh, yeah\nYou and me, baby, making love like gorillas\nOoh, yeah\nYou and me, baby, making love like gorillas\n[Verse 2]\nYeah, I got a fistful of your hair\nBut you don't look like you're scared\nYou just smiling, tell me \"Daddy, it's yours\"\n'Cause you know how I like it, you's a dirty little lover\nIf the neighbors call the cops, call the sheriff, call the SWAT\nWe don't stop, we keep rocking while they knocking on our door\nAnd you're screaming, \"Give it to me baby\nGive it to me, motherfucker!\"\n\n[Pre-Chorus]\nOh, look what you're doing, look what you've done\nBut in this jungle you can't run\n'Cause what I got for you, I promise it's a killa\nYou'll be banging on my chest, bang bang, gorilla\n\n[Chorus]\nOoh, yeah\nYou and me, baby, making love like gorillas\nOoh, yeah\nYou and me, baby, making love like gorillas\n\n[Bridge]\nI bet you never ever felt so good, so good\nI got your body trembling like it should, it should\nYou'll never be the same, baby, once I'm done with\nYoo-oo-oo-oo-oou, yeah\n[Breakdown]\nYou, you, you...\n\n[Chorus]\nOh, you with me, baby, making love like gorillas\nOh, oh, oh, oh, yeah\nYeah, you and me, baby, we'll be fucking like gorillas\n(Oh)\nYeah, yeah, yeah, baby, baby, aw, yeah\nYou and me, baby, making love like gorillas\n[Live Verse]\nGirl, let me take my time, take my time, take my time, babe\nI just want one smile, want one smile, want one smile, babe\nOnce I lay besides you, girl, I will make you scream, \"yeah, yeah\"\nGirl, let me take my time, take my time, take my time, babe\nI just want one smile, want one smile, want one smile, babe\nOnce I get inside you, girl, I will make you scream, \"yeah, yeah, yeah\"\nCome on (etc.)\nYeah, yeah, yeah45Embed"
+        },
+        {
+            "name": "Treasure",
+            "duration": 178560,
+            "lyrics": "Treasure Lyrics[Intro]\nBaby squirrel, you's a sexy motherfucker\n\n[Verse 1]\nGimme your, gimme your, gimme your attention, baby\nI gotta tell you a little somethin' about yourself!\nYou're wonderful, flawless, ooh, you're a sexy lady\nBut you walk around here like you wanna be someone else (Else)\n\n[Pre-Chorus]\nOh, whoa-oh-oh\nI know that you don't know it, but you're fine, so fine\n(Fine, so fine)\nOh, whoa-oh-oh\nOh, girl, I'm gonna show you when you're mine, oh, mine\n(Mine, oh, mine)\n\n[Chorus]\nTreasure, that is what you are\nHoney, you're my golden star\nYou know you can make my wish come true\nIf you let me treasure you\nIf you let me treasure you\n[Post-Chorus]\nWhoa-oh-oh-h-h-h\n\n[Verse 2]\nPretty girl, pretty girl, pretty girl, you should be smiling\n(You should be smiling)\nA girl like you should never look so blue\nYou're everything I see in my dreams\nI wouldn't say that to you if it wasn't true\n\n[Pre-Chorus]\nOh, whoa-oh-oh\nI know that you don't know it, but you're fine, so fine\n(Fine, so fine)\nOh, whoa-oh-oh\nOh, girl, I'm gonna show you when you're mine, oh, mine\n(Mine, oh, mine)\n\n[Chorus]\nTreasure, that is what you are\nHoney, you're my golden star\nYou know you can make my wish come true\nIf you let me treasure you\nIf you let me treasure you\n\n[Post-Chorus]\nWhoa-oh-oh-h-h-h\n[Bridge]\nYou are my treasure, you are my treasure\nYou are my treasure, yeah, you, you, you, you are\nYou are my treasure, you are my treasure\nYou are my treasure, yeah, you, you, you, you are\n\n[Chorus]\nTreasure (You are my treasure)\nThat is what you are (You are my treasure)\n(You are my treasure)\nHoney, you're my golden star (You are)\n(You are my treasure)\nYou know you can make my wish come true\n(You are my treasure)\nIf you let me treasure you (You are)\n(You are my treasure)\nIf you let me treasure you\n(You are my treasure)\n\n[Post-Chorus]\nWhoa-oh-oh-h-h-h70Embed"
+        },
+        {
+            "name": "Moonshine",
+            "duration": 228573,
+            "lyrics": "Moonshine Lyrics[Verse 1]\nHello\nYou know, you look even better\nThan the way you did the night before\nAnd the moment that you kiss my lips\nYou know, I start to feel wonderful\nIt's something incredible\nThere's sex in your chemicals, oh\nOoh, let's go\nYou're the best way I know\nTo escape the extraordinary\nThis world ain't for you\nAnd I know for damn sure this world ain't for me\nLift off and say goodbye\nJust let your fire set me free\n\n[Chorus]\nOh, moonshine\nTake us to the stars tonight\nTake us to that special place\nThat place we went the last time, the last time\n[Verse 2]\nI know\nI was with you last night\nBut it feels like it's been so long\nAnd everybody that's around\nThey notice that I'm not myself when you're gone\nIt's good to see you again\nGood to see you again\nOn top of the world\nIs where I stand when you're back in my life\nLife's not so bad when you're way up this high\nEverything is alright\nEverything is alright\n\n[Chorus]\nOh, moonshine\nTake us to the stars tonight\nTake us to that special place\nThat place we went the last time, the last time\nOh, moonshine\nYour loving makes me come alive\nTake us to that special place\nThat place we went the last time, the last time\n\n[Bridge]\nDon't look down, don't you never look back\nWe are not afraid to die young and live fast\nGive me good times, give me love, give me laughs\nLet's take a ride to the sky before the night is gone\n[Chorus]\nMoonshine\nTake us to the stars tonight\nTake us to that special place\nThat place we went the last time, the last time\nOh, moonshine\nYour loving makes me come alive\nTake us to that special place\nThat place we went the last time, the last time12Embed"
+        },
+        {
+            "name": "STAY (with Justin Bieber)",
+            "duration": 141805,
+            "lyrics": "New Music Friday 7/9/21 LyricsBTS - Permission to Dance\nPost Malone - Motley Crew\nBillie Eilish - NDA\nThe Kid LAROI - Stay (with Justin Bieber)\nMaluma - Sobrio\nBIA - WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix\nKane Brown - Memory\nJungle - Romeo (feat. Bas)\nYung Bleu - Way More Close (Stuck In A Box) (feat. Big Sean)\nNathy Peluso - MAFIOSA\nZoe Wees - you broke me first - Spotify Singles\nOmar Apollo - Go Away\nBad Bunny - De Museo\nVince Staples - ARE YOU WITH THAT?\nSnoh Aalegra - NEON PEACH feat. Tyler, The Creator\nJennifer Lopez - Cambia el Paso\nJohn Legend - Crowd Go Crazy\nIDK - Keto\nBas - Th\u0435 Jackie (with J. Cole & Lil Tjay)\nMasked Wolf - Say So\nglaiv\u0435 - fuck this town\nClaire Rosinkranz - Hotel\nAURORA - Cure For Me\nTkay Maidza - Onto Me (with UMI)\nDave - Clash (feat. Stormzy)\ncarolesdaughter - please put me in a medically induced coma\nCamylio - love and hate\nJoy Oladokun - judas\nAnt Clemons - Section (feat. Kehlani)\nLogic - Get Up\nLittle Simz - I Love You, I Hate You\nPeggy Gou - I Go - Edit\nIcona Pop - Off Of My Mind\nTinashe - Bouncin\nNina Nesbitt - Summer Fling\nWalk Off the Earth - Love You Right \ud83d\udd52\nParmalee - Take My Name\nJon Langston - Try Missing You\nSufjan Stevens - Reach Out\nCharlotte Day Wilson - I Can Only Whisper (feat. BADBADNOTGOOD)\nmazie - dumb dumb\nFredo Bang - Bless His Soul (with Polo G)\nKid Ink - Party\nDro Kenji - CROSS\nJayson Cash - Priority (feat. Blxst)\nAmorphous - The Vibe\nFrank Walker - Shadows \ud83d\udd52\nLost Kings - Me Myself & Adderall\nTwin Shadow - Is There Any Love \ud83d\udd52\nInhaler - In My Sleep\nNothing But Thieves - Miracle, Baby\nSam Fender - Seventeen Going Under - Edit\nAllison Ponthier - Hell Is A Crowded Room\nCourtney Barnett - Rae Street\nOslo Ibrahim - Baby Don't Let Me Go\nO.T. Genasis - What Is Your Name \ud83d\udd52\nNGeeYL - Off-White (feat. Lil Uzi Vert)\nCyn Santana - Come\nJam & Lewis - Do It Yourself \ud83d\udd52\nMariah the Scientist - Walked In (feat. Young Thug)\nMontell Fish - Talk 2 Me\nArden Jones - rollercoaster\nFrances Forever - daytime \ud83d\udc1a\nLoren Gray - Piece of Work\nConor Maynard - Ain't Got No Friends\nLoud Luxury - Wasted \ud83d\udd52\nThe Maine - High Forever\nPOORSTACY - Children of The Dark\nOscar Lang - Thank You\n\ubc15\ud61c\uc9c4 Park Hye Jin - Let\u2019s Sing Let\u2019s Dance\nAmen Dunes - Feel Nothing\nTom Odell - over you yet\nHONNE - NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)\nNaliya - Roller Coaster\nBrynn Elliott - Can I Be Real?\nEmily Weisband - butterfly (feat. Karen Fairchild)\nCharley Crockett - I Need Your Love\nHillsong UNITED - Know You Will\nDwn2earth - Don't Play With Me\nBantu - Unforgivable\nIssam Alnajjar - Mn Gheirik Enti\nHotboy Wes - My Lil Dance (feat. Gucci Mane)\nAmindi - nwts\nGRiZ - Rainbow Brain\nEVAN GIIA - In Motion (feat. Reo Cragun) \ud83d\udd52\nBahari - Forget You\n44phantom - problems \ud83d\udd52\nDylan Cartlidge - Dare To Dream \ud83d\udc1a\nalmost monday - til the end of time\nLP - Goodbye\nDeclan McKenna - My House\nSpencer. - Lonely As I Ever Was\nTAELA - drugs with you\nmarcos g - 17 anymore\npayton - DRIVE AWAY\nRejjie Snow - Shooting Star \ud83d\udd52\nYoussou N'Dour - Raise Your Hand\nJucee Froot - I Need A Bag\nChildish Major - F Yah Job\nNicki Nicole - Me Has DejadoEmbed"
+        },
+        {
+            "name": "Enemy (with JID) - from the series Arcane League of Legends",
+            "duration": 173381,
+            "lyrics": "New Music Friday 10/30/21 LyricsEd Sheeran - Overpass Graffiti\nMyke Towers - Oh Na Na\nMegan Thee Stallion - Eat It\nLil Uzi Vert - Demon High\nConan Gray - Telepath\nEd Sheeran - 2step\nBig Sean - Loyal To A Fault (feat. Bryson Tiller, Lil Durk)\nA$AP Rocky - Sandman\nMEDUZA - Tell It To My Heart\nSueco - Sober/Hungover (feat. Arizona Zervas)\nA$AP Ferg - Green Juice (feat. Pharrell Williams)\nImagine Dragons - Enemy (with JID) - from the series Arcane League of Legends\nEd Sheeran - First Times\nBENEE - Doesn't Matter\nAmin\u00e9 - Charmander\nFlo Milli - Ice Baby\nJoyner Lucas - Duck Duck Goose\nBobby Shmurda - Cartier Lens\nDavid Guetta - Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)\nGryffin - After You (feat. Calle Lehmann)\nAlicia Keys - Best Of Me (Originals)\nSnoh Aalegra - DO 4 LOVE\nThe Mar\u00edas - D\u00c1KITI \u2013 Spotify Singles\nLuke Wild - Pack a Punch \ud83d\udd52\nLIL DUSTY G - Preached\nJoel Corry - I Wish (feat. Mabel)\nFrench Montana - I Don't Really Care\nMacklemore - Next Year (feat. Windser)\nNicki Nicole - Sabe\nJ.I the Prince of N.Y - Taken For Granted\nSSGKobe - Caddy\nBeach Bunny - Oxygen\nPrentiss - i will wait\nJEON SOMI - Anymore\nMaude Latour - Strangers Forever\nCheat Codes - How Do You Love (with Lee Brice & Lindsay Ell)\ngrandson - Drop Dead (with Kesha and Travis Barker)\nSpoon - The Hardest Cut\nThe War On Drugs - Change\nGeese - Exploding House\nIDK - Dinner Date (feat. Trippie Redd) - bonus\nYG - Sign Language\nHotboii - Never Say Never\nAlina Baraz - Change My Mind\nYaeji - Year to Year\nMICHELLE - MESS U MADE\nChristian Leave - Days Like Lost Dogs\nAshley Kutcher - The Night You Left\nNightly - Lose My Number\nCHASE WRIGHT - Intertwined\nElvie Shane - Love, Cold Beer, Cheap Smoke\nMike Posner - Amor Fati (feat. James Valentine & Jacob Scesney)\nSahBabii - Believe It\nRegard - Signals\nAlesso - Rescue Me\nAnuel AA - Dictadura\nLil Poppa - Missing Something\nBRS Kash - I'm Hot (feat. Chi Chi & Nick Papz)\nBaby Tate - Pedi\nMick Jenkins - Gucci Tried to Tell Me\nMario - Get Back (feat. Chris Brown)\nMatisyahu - Chameleon (feat. Salt Cathedral)\nAma Lou - Trust Nobody\nHush Forte - PROMISE\ndaine - cemetery dreams\nFran Vasili\u0107 - Television / So Far So Good (voice memo)\nElyOtto - stalker\nMaggie Lindemann - She Knows It\n44phantom - I WON'T COMPLAIN (feat. Tom The Mail Man)\nYung Miami - Rap Freaks\nShygirl - Cleo - Edit\nArtemas - Real Life\nMad Tsai - killer queen\nSlow Pulp - Shadow\nNiko Rubio - All Mine\nPeach Tree Rascals - Song From Hell\nJORDY - South Dakota\nMaddie & Tae - Madness\nWALK THE MOON - Rise Up\nayokay - All Mine\ndeadmau5 - Hyperlandia - Vocal Mix\nScorey - Catch Me If You Can\nBBY KODIE - Started This\nBabyface Ray - Catch It\nemlyn - god sent me as karma\nAmelia Moore - sweet and sour\nForrest Nolan - and it sounds like (ice cream)\nShy Carter - The Rest Of Us\nDrew Green - Dirt Boy\nRyan Ellis - Higher Ground\nMaximillian - Mirror\nBabygirl - Born With A Broken Heart\nSally Boy - Thought I Was Dead\nJack Omstead - IN A DREAM\nHVN - MARINE\nDro Kenji - VANISH\nChris Patrick - Insane\nego apartment - Weigh me down\nTori Amos - Metal Water Wood\nGrupo Diez 4tro - ParanormalEmbed"
+        },
+        {
+            "name": "INDUSTRY BABY (feat. Jack Harlow)",
+            "duration": 212000,
+            "lyrics": "INDUSTRY BABY Lyrics[Intro: Lil Nas X]\n(D-D-Daytrip took it to ten, hey)\nBaby back, ayy, couple racks, ayy\nCouple Grammys on him, couple plaques, ayy\nThat's a fact, ayy, throw it back, ayy\nThrow it back, ayy\n[Pre-Chorus: Lil Nas X]\nAnd this one is for the champions\nI ain't lost since I began, yeah\nFunny how you said it was the end, yeah\nThen I went did it again, yeah\n\n[Chorus: Lil Nas X]\nI told you long ago on the road\nI got what they waiting for\nI don't run from nothing, dog\nGet your soldiers, tell 'em I ain't layin' low\nYou was never really rooting for me anyway\nWhen I'm back up at the top, I wanna hear you say\nHe don't run from nothin', dog\nGet your soldiers, tell 'em that the break is over\n[Verse 1: Lil Nas X]\nUh, need to, uh\nNeed to get this album done\nNeed a couple number on\u0435s\nNeed a plaque on every song\nNeed m\u0435 like one with Nicki now\nTell a rap nigga I don't see ya, hah\nI'm a pop nigga like Bieber, hah\nI don't fuck bitches, I'm queer, hah\nBut these niggas bitches like Madea, yeah, yeah, yeah, ayy (Yeah)\nOh, let's do it\nI ain't fall off, I just ain't release my new shit\nI blew up, now everybody tryna sue me\nYou call me Nas, but the hood call me Doobie, yeah\n[Pre-Chorus: Lil Nas X]\nAnd this one is for the champions\nI ain't lost since I began, yeah\nFunny how you said it was the end, yeah\nThen I went did it again, yeah\n\n[Chorus: Lil Nas X]\nI told you long ago on the road\nI got what they waiting for (I got what they're waiting for)\nI don't run from nothing, dog\nGet your soldiers, tell 'em I ain't layin' low (Bitch, I ain't runnin' from nowhere)\nYou was never really rooting for me anyway (Ooh, ooh)\nWhen I'm back up at the top, I wanna hear you say (Ooh, ooh)\nHe don't run from nothin', dog\nGet your soldiers, tell 'em that the break is over (Yeah)\n[Verse 2: Jack Harlow]\nMy track record so clean, they couldn't wait to just bash me\nI must be gettin' too flashy, y'all shouldn't have let the world gas me (Woo)\nIt's too late 'cause I'm here to stay and these girls know that I'm nasty (Mmm)\nI sent her back to her boyfriend with my handprint on her ass cheek\nCity talkin', we takin' notes\nTell 'em all to keep makin' posts\nWish he could, but he can't get close\nOG so proud of me that he chokin' up while he makin' toasts\nI'm the type that you can't control, said I would, then I made it so\nI don't clear up rumors (Ayy), where's y'all sense of humor? (Ayy)\nI'm done makin' jokes 'cause they got old like baby boomers\nTurned my haters to consumers, I make vets feel like they juniors (Juniors)\nSay your time is comin' soon, but just like Oklahoma (Mmm)\nMine is comin' sooner (Mmm), I'm just a late bloomer (Mmm)\nI didn't peak in high school, I'm still out here gettin' cuter (Woo)\nAll these social networks and computers\nGot these pussies walkin' 'round like they ain't losers\n\n[Chorus: Lil Nas X]\nI told you long ago on the road\nI got what they waiting for (I got what they waiting for)\nI don't run from nothing, dog\nGet your soldiers, tell 'em I ain't layin' low (Bitch, I ain't runnin' from nowhere)\nYou was never really rooting for me anyway\nWhen I'm back up at the top, I wanna hear you say\nHe don't run from nothin', dog\nGet your soldiers, tell 'em that the break is over\n[Outro: Lil Nas X]\nYeah\nI'm the industry baby, mmm\nI'm the industry baby\nYeah144Embed"
+        },
+        {
+            "name": "S&M",
+            "duration": 243600,
+            "lyrics": "S&M Lyrics[Intro: Ester Dean]\nNa-na-na, come on\nNa-na-na, come on\nNa-na-na-na-na, come on\nNa-na-na, come on, come on, come on\nNa-na-na-na, come on\nNa-na-na, come on\nNa-na-na-na-na, come on\nNa-na-na, come on, come on, come on\nNa-na-na-na\n\n[Verse 1: Rihanna]\nFeels so good being bad (Oh-oh-oh-oh-oh)\nThere's no way I'm turning back (Oh-oh-oh-oh-oh)\nNow the pain is my pleasure 'cause nothing could measure\n(Oh, oh, oh-oh-oh-oh-oh)\nLove is great, love is fine (Oh-oh-oh-oh-oh)\nOut the box, outta line (Oh-oh-oh-oh-oh)\nThe affliction of the feeling leaves me wanting more\n(Oh, oh, oh-oh-oh-oh-oh)\n[Chorus: Rihanna]\n'Cause I may be bad, but I'm perfectly good at it\nSex in the air, I don't care, I love the smell of it\nSticks and stones may break my bones\nBut chains and whips excite me\n'Cause I may be bad, but I'm perfectly good at it\nSex in the air, I don't care, I love the smell of it\nSticks and stones may break my bones\nBut chains and whips excite me\n\n[Post-Chorus: Rihanna & Ester Dean]\nNa-na-na, come on, come on, come on\nI like it, like it\nCome on, come on, come on\nI like it, like it (Na-na-na)\nCome on, come on, come on\nI like it, like it\nCome on, come on, come on\nI like it, like it\n\n[Verse 2: Rihanna]\nLove is great, love is fine (Oh-oh-oh-oh-oh)\nOut the box, outta line (Oh-oh-oh-oh-oh)\nThe affliction of the feeling leaves me wanting more\n(Oh, oh, oh-oh-oh-oh-oh)\n[Chorus: Rihanna]\n'Cause I may be bad, but I'm perfectly good at it\nSex in the air, I don't care, I love the smell of it\nSticks and stones may break my bones\nBut chains and whips excite me\n\n[Post-Chorus: Rihanna & Ester Dean]\nNa-na-na, come on, come on, come on\nI like it, like it\nCome on, come on, come on\nI like it, like it (Na-na-na)\nCome on, come on, come on\nI like it, like it\nCome on, come on, come on\nI like it, like it\n\n[Refrain: Rihanna]\nS-S-S and M-M-M\nS-S-S and M-M-M\n\n[Bridge: Rihanna]\nOh, I love the feeling you bring to me\nOh, you turn me on\nIt's exactly what I've been yearning for\nGive it to me strong\nAnd meet me in my boudoir\nMake my body say, \"Ah-ah-ah\"\nI like it, like it\n[Chorus: Rihanna]\n'Cause I may be bad, but I'm perfectly good at it\nSex in the air, I don't care, I love the smell of it\nSticks and stones may break my bones\nBut chains and whips excite me\n'Cause I may be bad, but I'm perfectly good at it\nSex in the air, I don't care, I love the smell of it\nSticks and stones may break my bones\nBut chains and whips excite me\n\n[Post-Chorus: Rihanna & Ester Dean]\nNa-na-na, come on, come on, come on\nI like it, like it\nCome on, come on, come on\nI like it, like it (Na-na-na)\nCome on, come on, come on\nI like it, like it\nCome on, come on, come on\nI like it, like it\n\n[Refrain: Rihanna]\nS-S-S and M-M-M\nS-S-S and M-M-M\nS-S-S and M-M-M\nS-S-S and M-M-M49Embed"
+        },
+        {
+            "name": "What's My Name?",
+            "duration": 263173,
+            "lyrics": "What\u2019s My Name? Lyrics[Refrain: Rihanna & Drake]\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name? (Uh)\nWhat's my name? What's my name? (Yeah)\n\n[Verse 1: Drake]\nI heard you good with them soft lips\nYeah, you know, word of mouth\nThe square root of sixty-nine is eight somethin', right?\n'Cause I've been tryna work it out, oh\nGood weed, white wine, uh\nI come alive in the night time, yeah\nOkay, away we go\nOnly thing we have on is the radio\nLet it play\nSay you gotta leave, but I know you wanna stay\nYou just waitin' on the traffic jam to finish, girl\nThe things that we could do in twenty minutes, girl\nSay my name, say my name, wear it out\nIt's gettin' hot, crack a window, air it out\nI can get you through a mighty long day\nSoon as you go, the text that I write is gon' say\n[Refrain: Rihanna]\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nWhat's my name? What's my name?\n\n[Verse 2: Rihanna]\nNot everybody\nKnows how to work my body\nKnows how to make me want it\nBut, boy, you stay up on it\nYou got that somethin'\nThat keeps me so off balance\nBaby, you're a challenge\nLet's explore your talent\n\n[Chorus: Rihanna]\nHey, boy, I really wanna see if you\nCan go downtown with a girl like me\nHey, boy, I really wanna be with you\n'Cause you just my type\nOoh, na, na, na, na\nI need a boy to take it over\nLookin' for a guy to put in work\nOh woah, oh woah\nHey, boy, I really wanna see if you\nCan go downtown with a girl like me\nHey, boy, I really wanna be with you\n'Cause you just my type\nOoh, na, na, na, na\nI need a boy to take it over\nLookin' for a guy to put in work\nOh woah, oh woah\n[Refrain: Rihanna]\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nWhat's my name? What's my name?\n\n[Verse 3: Rihanna]\nBaby, you got me\nAnd ain't nowhere that I'd be\nThan with your arms around me\nBack and forth, you rock me, yeah\nSo I surrender\nTo every word you whisper\nEvery door you enter\nI will let you in\n\n[Chorus: Rihanna]\nHey, boy, I really wanna see if you\nCan go downtown with a girl like me\nHey, boy, I really wanna be with you\n'Cause you just my type\nOoh, na, na, na, na\nI need a boy to take it over\nLookin' for a guy to put in work\nOh woah, oh woah\n[Bridge: Rihanna]\nYou're so amazing\nYou took the time to figure me out\nThat's why you take me\nWay past the point of turnin' me on\nYou 'bout to break me\nI swear you got me losin' my mind\n\n[Refrain: Rihanna]\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nOh na-na, what's my name?\nWhat's my name? What's my name?\n\n[Chorus: Rihanna]\nHey, boy, I really wanna see if you\nCan go downtown with a girl like me\nHey, boy, I really wanna be with you\n'Cause you just my type\nOoh, na, na, na, na\nI need a boy to take it over\nLookin' for a guy to put in work\nOh woah, oh woah\nHey, boy, I really wanna see if you\nCan go downtown with a girl like me\nHey, boy, I really wanna be with you\n'Cause you just my type\nOoh, na, na, na, na\nI need a boy to take it over\nLookin' for a guy to put in work\nOh woah, oh woah61Embed"
+        },
+        {
+            "name": "Cheers (Drink To That)",
+            "duration": 261746,
+            "lyrics": "Cheers (Drink to That) Lyrics[Intro: Robert Campbell]\n(One, two) We takin' shots in here, you want one?\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n\n[Chorus]\nCheers to the freakin' weekend\nI drink to that, yeah, yeah\nOh, let the Jameson sink in\nI drink to that, yeah, yeah\nDon't let the bastards get you down\nTurn it around with another round\nThere's a party at the bar\nEverybody, put your glasses up and I drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nI drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n\n[Verse 1]\nLife's too short to be sitting 'round miserable\nAnd people gon' talk whether you doing bad or good, yeah\nGot a drink on my mind and my mind on my money, yeah\nLooking so bomb, gonna find me a honey\n[Pre-Chorus]\nGot my Ray-Bans on and I'm feeling hella cool tonight, yeah\nEverybody's vibing, so don't nobody start a fight, yeah\n\n[Chorus]\nCheers to the freakin' weekend\nI drink to that, yeah, yeah\nOh, let the Jameson sink in\nI drink to that, yeah, yeah\nDon't let the bastards get you down\nTurn it around with another round\nThere's a party at the bar\nEverybody, put your glasses up and I drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nI drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n\n[Verse 2]\n'Bout to hop on the bar, put it all on my card tonight, yeah\nMight be mad in the morning, but you know we goin' hard tonight\nIt's getting Coyote Ugly up in here, no Tyra\nIt's only up from here, no downward spiral\n\n[Pre-Chorus]\nGot my Ray-Bans on and I'm feeling hella cool tonight, yeah\nEverybody's vibing, so don't nobody start a fight, yeah\n[Chorus]\nCheers to the freakin' weekend\nI drink to that, yeah, yeah\nOh, let the Jameson sink in\nI drink to that, yeah, yeah\nDon't let the bastards get you down\nTurn it around with another round\nThere's a party at the bar\nEverybody, put your glasses up and I drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nI drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nAnd I drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nI drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n\n[Chorus]\nCheers to the freaking weekend\nI drink to that, yeah, yeah\nOh, let the Jameson sink in\nI drink to that, yeah, yeah\nDon't let the bastards get you down\nTurn it around with another round\nThere's a party at the bar\nEverybody, put your glasses up and I drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nI drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nAnd I drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nI drink to that\n(Yeah, yeah, yeah, yeah, yeah, yeah)\n(Yeah, yeah, yeah, yeah, yeah, yeah)\nAnd I drink to that202Embed"
+        },
+        {
+            "name": "Fading",
+            "duration": 199666,
+            "lyrics": "Fading Lyrics[Verse 1]\nYou say you love me\nBut they feel like words to me\nWell, this just ain't working\nStop thinking you can run over me\nDrifting, settling\nOff to a foreign place\nIf I can't see what's in front of me\nIt's a mystery, well, then apparently\n\n[Pre-Chorus]\nThings just ain't the same\nAnd I'm ready for change\nGo on, be gone\nBye bye, so long\n\n[Chorus]\nCan't you see that you're fading, fading, fading?\nFa-a-ading away, away, away, away\nI opened up my eyes and I finally realized\nToday, today, it's too late\nYou're fading away\n[Verse 2]\nPut a sock in it, just stop running your mouth\nGot my mind made up, I ain't coming back again\nNo way, no way, no way, no way\n'Cause I'm so fed up, boy, you got me messed up\nIf we hooking back up, don't press your luck today, today\nI'm blowing you away, yeah, yeah\n\n[Pre-Chorus]\nThings just ain't the same\nAnd I'm ready for change\nGo on, be gone\nTa-ta, so long\n\n[Chorus]\nCan't you see that you're fading, fading, fading?\nFa-a-ading away, away, away, away\nI opened up my eyes and I finally realized\nToday, today, it's too late\nYou're fading away\n\n[Bridge]\nSaw you turn into a ghost right in front of my eyes\nTell me, what's a girl to do when she's crying inside?\nI'm about to go insane, I'm jumping off this train\nWhether wrong or right, I'll be gone by night\n[Chorus]\nCan't you see that you're fading, fading, fading?\nFa-a-ading away, away, away, away\nI opened up my eyes and I finally realized\nToday, today, it's too late\nYou're fading away12Embed"
+        },
+        {
+            "name": "Only Girl (In The World)",
+            "duration": 235493,
+            "lyrics": "Only Girl (In the World) Lyrics[Intro]\nLa-la-la-la\nLa-la-la-la\nLa-la-la-la (Uh, yeah)\nLa-la-la-la\n\n[Verse 1]\nI want you to love me\nLike I'm a hot ride (Uh, yeah)\nBe thinking of me (Uh)\nDoing what you like (Haha)\nSo, boy, forget about the world\n'Cause it's gon' be me and you tonight (Yeah)\nI wanna make you beg for it\nThen I'ma make you swallow your pride, oh (Uh, uh)\n\n[Chorus]\nWant you to make me feel\nLike I'm the only girl in the world\nLike I'm the only one that you'll ever love\nLike I'm the only one who knows your heart\nOnly girl in the world\nLike I'm the only one that's in command\n'Cause I'm the only one who understands\nHow to make you feel like a man, yeah\nWant you to make me feel\nLike I'm the only girl in the world\nLike I'm the only one that you'll ever love\nLike I'm the only one who knows your heart\nOnly one\n[Verse 2]\nWant you to take it (Uh)\nLike a thief in the night (Uh)\nHold me like a pillow\nMake me feel right (Uh)\nBaby, I'll tell you all my secrets that I'm keeping\nYou can come inside (Yeah)\nAnd when you enter, you ain't leaving\nBe my prisoner for the night, oh\n\n[Chorus]\nWant you to make me feel\nLike I'm the only girl in the world\nLike I'm the only one that you'll ever love\nLike I'm the only one who knows your heart\nOnly girl in the world\nLike I'm the only one that's in command\n'Cause I'm the only one who understands\nLike I'm the only one who knows your heart\nOnly one\n\n[Bridge]\nTake me for a ride, ride\nOh, baby, take me high, high\nLet me make you rise, rise\nOh, make it last all night, night\nTake me for a ride, ride\nOh, baby, take me high, high\nLet me make you rise, rise\nMake it last all night\n[Chorus]\nWant you to make me feel\nLike I'm the only girl in the world\nLike I'm the only one that you'll ever love\nLike I'm the only one who knows your heart\nOnly girl in the world\nLike I'm the only one that's in command\n'Cause I'm the only one who understands\nHow to make you feel like a man\nOnly girl in the world\nGirl in the world\nOnly girl in the world\nGirl in the world34Embed"
+        }
+    ],
+    "genre": [
+        {
+            "type": "canadian pop"
+        },
+        {
+            "type": "pop"
+        },
+        {
+            "type": "pop rock"
+        },
+        {
+            "type": "dance pop"
+        },
+        {
+            "type": "australian hip hop"
+        },
+        {
+            "type": "modern rock"
+        },
+        {
+            "type": "rock"
+        },
+        {
+            "type": "hip hop"
+        },
+        {
+            "type": "rap"
+        },
+        {
+            "type": "lgbtq+ hip hop"
+        },
+        {
+            "type": "deep underground hip hop"
+        },
+        {
+            "type": "kentucky hip hop"
+        },
+        {
+            "type": "barbadian pop"
+        },
+        {
+            "type": "pop rap"
+        },
+        {
+            "type": "urban contemporary"
+        }
+    ]
+}
