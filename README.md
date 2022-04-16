@@ -17,7 +17,7 @@ To make the database, call `.read init.sql` in sqlite3 prompt.
 2. Go to server directory 
 3. type in `npm run dev`
 
-Client url is `localhost:3000`
+Client url is `localhost:3000` <br>
 Server url is `localhost:5000` 
 
 
