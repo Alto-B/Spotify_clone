@@ -10,15 +10,15 @@ To make the database, call `.read init.sql` in sqlite3 prompt.
 ## Client: 
 1. Open terminal 
 2. Go to client directory 
-3. type in "npm run start"
+3. type in `npm run start`
 
 ## Server: 
 1. Open terminal 
 2. Go to server directory 
-3. type in "npm run dev"
+3. type in `npm run dev`
 
-Client url is "localhost:3000"
-Server url is "localhost:5000" 
+Client url is `localhost:3000`
+Server url is `localhost:5000` 
 
 
 ## NOTES: 
